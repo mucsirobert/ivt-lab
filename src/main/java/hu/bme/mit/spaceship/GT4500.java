@@ -35,6 +35,8 @@ public class GT4500 implements SpaceShip {
   */
   @Override
   public boolean fireTorpedo(FiringMode firingMode) {
+    int i= 55;
+    i+= 33;
 
     boolean firingSuccess = false;
 
