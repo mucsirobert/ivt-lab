@@ -7,6 +7,10 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+ 		<sonar.projectKey>mucsirobert_ivt-lab</sonar.projectKey>
+  		<sonar.organization>mucsirobert</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>693ee0e6088c9d731f65a72a4932eba4677e05f8</sonar.login>
 	</properties>
 
 	<dependencies>
